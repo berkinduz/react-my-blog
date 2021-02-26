@@ -4,7 +4,7 @@ export const getPosts = () => {
       title: "Hello World!",
       slug: "merhaba",
       details: require("./posts/merhaba.md").default,
-      date: "1 Aralık 2019"
+      date: "26 Şubat 2021"
     },
     {
       title: "React ve NextJS Blogu",
