@@ -1,0 +1,1 @@
+NEXT JS ve React kullanarak basit bir blog geliştirmesi.
